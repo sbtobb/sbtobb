@@ -10,6 +10,7 @@ I'm **sbtobb** (YuKuang) - 一直在折腾，偶尔发发呆
 
 ## 🏠 Projects
 
+- [chainbot](https://github.com/chainbotlab/chainbot) - a local first DAG system
 - [my-claude-code-workflow](https://github.com/sbtobb/my-claude-code-workflow) - Claude Code 工作流配置
 - [SmartHome](https://github.com/sbtobb/SmartHome) - Flutter 智能家居项目
 
