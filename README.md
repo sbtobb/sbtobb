@@ -1,6 +1,6 @@
 # Hi there! 🏖️
 
-I'm **sbtobb** (YuKuang) - 一直在折腾，偶尔发发呆
+I'm **YuKuang** - 一直在折腾，偶尔发发呆
 
 ## 🔧 Tech Stack
 
