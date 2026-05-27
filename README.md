@@ -1,6 +1,6 @@
 # Hi there! 🏖️
 
-I'm **YuKuang** - 一直在折腾，偶尔发发呆
+I'm **YauKwan**
 
 ## 🔧 Tech Stack
 
@@ -18,8 +18,9 @@ I'm **YuKuang** - 一直在折腾，偶尔发发呆
 
 ## 🤝 Connect
 
-- GitHub: [@sbtobb](https://github.com/sbtobb)
+- GitHub: [@yaukwan](https://github.com/yaukwan)
 - ChainBotLab: [chainbotlab](https://github.com/chainbotlab)
 
 ---
+一直在折腾，偶尔发发呆 
 *Keep exploring and building! 🚀*
